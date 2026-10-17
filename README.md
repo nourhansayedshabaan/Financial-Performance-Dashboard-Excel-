@@ -2,8 +2,6 @@
 
 An interactive Excel dashboard that analyses sales and profitability across segments, countries, products and discount levels, and pinpoints where the business loses money and why.
 
-Show Image
-
 Key finding
 
 Enterprise is the only loss-making segment. It generates 16% of sales but runs a -3.3% margin (a $0.61M net loss on $18.76M of sales). Its average list price ($125/unit) sits only 4% above its average COGS ($120/unit), so any discount above about 4% turns an order into a loss.
